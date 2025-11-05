@@ -41,6 +41,8 @@ The **Google Jobs Scraper** is a powerful tool designed to scrape and aggregate 
   "locationName": "new york",
   "includeKeyword": "python, django",
   "pagesToFetch": 2,
+  "jobType": "FULLTIME",
+  "datePosted": "month"
 }
 ```
 
